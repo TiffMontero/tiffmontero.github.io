@@ -1,0 +1,35 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+body {
+  background: #1e1e2e;
+  color: #cdd6f4;
+}
+
+header, footer {
+  background: #181825;
+  color: #cdd6f4;
+}
+
+h1, h2, h3 {
+  color: #cba6f7;
+}
+
+a {
+  color: #89b4fa;
+}
+
+a:hover {
+  color: #f5c2e7;
+}
+
+section, .wrapper {
+  color: #cdd6f4;
+}
+
+code, pre {
+  background: #313244;
+  color: #cdd6f4;
+}
